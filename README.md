@@ -28,7 +28,7 @@ class Test
       ^^^^
 ```
 
-#### INSTALATION (rubocop.yaml)
+#### INSTALATION (rubocop.yml)
 
 ```YAML
 
