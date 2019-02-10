@@ -1,2 +1,2 @@
 # Common configuration.
-require: /Users/nudelx/dev/Rubocop/linters/samanage_linter/samange_test.rb
+require: ./linters/samanage_linter/samange_lint.rb
